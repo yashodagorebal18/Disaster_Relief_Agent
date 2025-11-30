@@ -1,0 +1,5 @@
+name,type,address,lat,lon,verified_by,last_updated,notes
+"Central High School Shelter","shelter","123 Main St, Springfield",40.7128,-74.0060,"SpringfieldGov","2025-11-01","Wheelchair accessible"
+"Community Center North","shelter","400 North Ave, Springfield",40.7150,-74.0020,"RedCross","2025-10-28","No pets"
+"Eastside Food Distribution","food","500 East St, Springfield",40.7090,-74.0100,"LocalNGO","2025-11-15","Open 9am-3pm"
+"Downtown Medical Triage","medical","10 Health Plaza, Springfield",40.7135,-74.0075,"CountyHealthDept","2025-11-26","Non-critical triage"
